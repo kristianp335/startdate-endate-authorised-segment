@@ -1,0 +1,4 @@
+Bundle-Name: startdate-endate-authorised-segment
+Bundle-SymbolicName: com.liferay.kris.publishing.segment
+Bundle-Version: 1.0.0
+Web-ContextPath: /rule-publishing
